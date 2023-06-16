@@ -14,7 +14,7 @@ ____________________________________________________________________________
 10. `Total`: Total price including tax.
 11. `Date`: Purchase date (Recorded from January 2019 to March 2019).
 12. `Time`: Purchase time (from 10 AM to 9 PM).
-13.`Payment`: Payment method used by the customer (Cash, Credit Card, or Ewallet).
+13. `Payment`: Payment method used by the customer (Cash, Credit Card, or Ewallet).
 14. `COGS`: Cost of goods sold.
 15. `Gross Margin Percentage`: Gross margin percentage.
 16. `Gross Income`: Gross income.
