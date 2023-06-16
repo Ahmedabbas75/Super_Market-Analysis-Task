@@ -1,7 +1,7 @@
 ### About the Dataset :
 This dataset contains historical sales data from a supermarket company. The data includes records from three different branches over a three-month period.
 ____________________________________________________________________________
-## Data description :
+## Data Description :
 1. `Invoice ID`: Automatically generated identification number for sales slips.
 2. `Branch`: Supercenter branch (identified as A, B, or C).
 3. `City`: Location of the supercenters.
