@@ -28,10 +28,11 @@ ________________________________________________________________________________
   4. outliers in each column?
 
 - Univariate Analysis
-  1.  Which `branch` has largest Sales numbers?
+  1. Which `branch` has largest Sales numbers?
   2. Which `Gender` is greatly come to branches?
   3. What is the best-selling `product line` in the branches?
   4. Which `Payment` Customers preferred?
+  5. Which `Customer type`comes to branches greater
 
 - Bivariate Questions
   1. What is Relationship between `Gross income` and `Customer Ratings`?
@@ -43,8 +44,10 @@ ________________________________________________________________________________
 ## 4- Conclusion
 - Reached Results from  Univariate Analysis
   1. Branche `A` has largest Sales numbers
-2. 
-
+  2. Most Gender Come to branches is `female`
+  3. Most sales in branches is `Fashion accessories`
+  4. Customers prefered to `Ewallet`,`cash` payments rather than `credit card`
+  5. Most Customers come to branches has `member card`
 
 
 
