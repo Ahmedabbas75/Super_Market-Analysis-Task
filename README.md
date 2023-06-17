@@ -39,4 +39,12 @@ ________________________________________________________________________________
   3. What is Relationship between `Branches` and `Customer type`?
   4. What is Total Monthly transaction by `Gender`?
   5. What is `product line` generates most `income`?
+______________________________________________________________________________________
+## 4- Conclusion
+- Reached Results from  Univariate Analysis
+1. Branche `A` has largest Sales numbers
+2. 
+
+
+
 
