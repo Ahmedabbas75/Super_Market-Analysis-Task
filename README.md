@@ -28,4 +28,15 @@ ________________________________________________________________________________
   4. outliers in each column?
 
 - Univariate Analysis
-  1. 
+  1. Which `branch` has largest Sales numbers?
+  2. Which `Gender` is greatly come to branches?
+  3. What is the best-selling `product line` in the branches?
+  4. Which `Payment` Customers preferred?
+
+- Bivariate Questions
+  1. What is Relationship between Gross income and Customer Ratings?
+  2. What is Relationship between Branches and Product line?
+  3. What is Relationship between Branches and Customer type?
+  4. What is Total Monthly transaction by Gender?
+  5. What is product line generates most income?
+
