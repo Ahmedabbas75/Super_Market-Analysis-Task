@@ -28,7 +28,7 @@ ________________________________________________________________________________
   4. outliers in each column?
 
 - Univariate Analysis
-  1. Which `branch` has largest Sales numbers?
+  1.  Which `branch` has largest Sales numbers?
   2. Which `Gender` is greatly come to branches?
   3. What is the best-selling `product line` in the branches?
   4. Which `Payment` Customers preferred?
