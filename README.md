@@ -1,7 +1,7 @@
-### About the Dataset :
+## 1- About the Dataset :
 This dataset contains historical sales data from a supermarket company. The data includes records from three different branches over a three-month period.
 ____________________________________________________________________________
-## Data Description :
+## 2- Data Description :
 1. `Invoice ID`: Automatically generated identification number for sales slips.
 2. `Branch`: Supercenter branch (identified as A, B, or C).
 3. `City`: Location of the supercenters.
@@ -19,3 +19,10 @@ ____________________________________________________________________________
 15. `Gross Margin Percentage`: Gross margin percentage.
 16. `Gross Income`: Gross income.
 17. `Rating`: Customer satisfaction rating based on their overall shopping experience (rated on a scale of 1 to 10)
+_________________________________________________________________________________
+## 3- In Mind Questions
+- General Questions related to the existence of
+  1- missing values?
+  2- wrong datatypes for columns?
+  3- complete duplicates in the data?
+  4- outliers in each column?
