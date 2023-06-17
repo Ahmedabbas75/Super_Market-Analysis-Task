@@ -34,9 +34,9 @@ ________________________________________________________________________________
   4. Which `Payment` Customers preferred?
 
 - Bivariate Questions
-  1. What is Relationship between Gross income and Customer Ratings?
-  2. What is Relationship between Branches and Product line?
-  3. What is Relationship between Branches and Customer type?
-  4. What is Total Monthly transaction by Gender?
-  5. What is product line generates most income?
+  1. What is Relationship between `Gross income` and `Customer Ratings`?
+  2. What is Relationship between `Branches` and `Product line`?
+  3. What is Relationship between `Branches` and `Customer type`?
+  4. What is Total Monthly transaction by `Gender`?
+  5. What is `product line` generates most `income`?
 
