@@ -26,3 +26,6 @@ ________________________________________________________________________________
   2. wrong datatypes for columns?
   3. complete duplicates in the data?
   4. outliers in each column?
+
+- Univariate Analysis
+  1. 
