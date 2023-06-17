@@ -22,7 +22,7 @@ ____________________________________________________________________________
 _________________________________________________________________________________
 ## 3- In Mind Questions
 - General Questions related to the existence of
-  1- missing values?
-  2- wrong datatypes for columns?
-  3- complete duplicates in the data?
-  4- outliers in each column?
+  1. missing values?
+  2. wrong datatypes for columns?
+  3. complete duplicates in the data?
+  4. outliers in each column?
