@@ -52,7 +52,7 @@ ________________________________________________________________________________
  - Reached Results from Bivariate Questions
    1. Branch `C` stands out slightly with higher income compared to Branch `A` and `B`. Despite Branch `A` having slightly higher sales, it is Branch `C`  that emerges as the most profitable branch in terms of gross income, there was no relationship between customer `ratings` and `gross income`
    2. `Fashion Accessories` and `Food and Beverages` were the most products. Therefore, must focus on these categories, with electronic accessories
-   3. `When  number of members in Branch increased,Total of gross income increased`
+   3. When `members` in Branch increased,Total of `gross income` increased
    4. When number of females increase, `Fashion accessories` Product line increase,  When number of male increase,`Health and beauty` Product line increase
    5. Gross income is highest in `food and beverages`
 
