@@ -44,7 +44,7 @@ ________________________________________________________________________________
   - Which `product line` preferred for every gender?
   - Which `product line` have greater gross income?
   - What is `Month` has greater gross income?
-  - What is greater sales  `product line` in each month?
+  - What is greater sales `product line` in each month?
 ______________________________________________________________________________________
 ## 4- Conclusion
 - Reached Results from  Univariate Analysis
@@ -60,7 +60,13 @@ ________________________________________________________________________________
    -  Branch `A`,`B` has males greater than females, but branch `C` has females greater than males.
    -  `Female` gross income greater than Male in each branch.
    - Electronic accessories, Home and lifestyle is the most sales in branch `A`, Health and beauty, Sports and travel is the most sales in branch `B` and - Food and beverages, Fashion accessories is the most sales in branch `C`.
-   - Branch `A` and `B`, `Normal` customer greater than `Member` but  Branch `C`, `Member` customer greater than `Normal`, `When  number of members in Branch increased,Total of gross income increased` 
+   - Branch `A` and `B`, `Normal` customer greater than `Member` but  Branch `C`, `Member` customer greater than `Normal`, `When customer number of members in Branch increased,Total of gross income increased`.
+   -  When number of females increase, `Fashion accessories` Product line increase but When number of male increase,`Health and beauty` Product line increase.
+   -  Gross income is highest in `food and beverages`.
+   -  `january` month has greater gross income.
+   -  `January` month Sports and travel, Fashion accessories is the most product line sales, `March` month Electronic accessories, Home and lifestyle is the most product line sales and `February` month Food and beverages, Fashion accessories is the most product line sales.
+   -   
+
 
 
 
