@@ -65,8 +65,21 @@ ________________________________________________________________________________
    -  Gross income is highest in `food and beverages`.
    -  `january` month has greater gross income.
    -  `January` month Sports and travel, Fashion accessories is the most product line sales, `March` month Electronic accessories, Home and lifestyle is the most product line sales and `February` month Food and beverages, Fashion accessories is the most product line sales.
-   -   
+______________________________________________________________________________________
+## 5- 💡Summary
+- #### Customer average rating of approximately `7`. there was no relationship between customer ratings and gross income
 
+- #### Among the three branches, Branch `C` as the most profitable in terms of gross income, despite Branch `A` having slightly higher sales
+
+- #### `Fashion Accessories` and `Food and Beverages` were the most products. Therefore, must focus on these categories, with electronic accessories
+
+- #### The preferred payment method for customers was found to be `Ewallet` and `Cash`
+
+- #### `Food and Beverage` proved to be the category generating the highest gross income overall
+
+- #### Females  spend the most on `fashion accessories`, while males  preference for `health and beauty` products Females also spending on `sports and travel`, which contributed to the highest overall income
+
+- #### `In the end, there was no relationship between customer ratings were not significantly related to any variable`
 
 
 
