@@ -1,7 +1,7 @@
-### About the Dataset :
+## 1- About the Dataset :
 This dataset contains historical sales data from a supermarket company. The data includes records from three different branches over a three-month period.
 ____________________________________________________________________________
-## Data Description :
+## 2- Data Description :
 1. `Invoice ID`: Automatically generated identification number for sales slips.
 2. `Branch`: Supercenter branch (identified as A, B, or C).
 3. `City`: Location of the supercenters.
@@ -19,3 +19,42 @@ ____________________________________________________________________________
 15. `Gross Margin Percentage`: Gross margin percentage.
 16. `Gross Income`: Gross income.
 17. `Rating`: Customer satisfaction rating based on their overall shopping experience (rated on a scale of 1 to 10)
+_________________________________________________________________________________
+## 3- In Mind Questions
+- General Questions related to the existence of
+  1. missing values?
+  2. wrong datatypes for columns?
+  3. complete duplicates in the data?
+  4. outliers in each column?
+
+- Univariate Analysis
+  1. Which `branch` has largest Sales numbers?
+  2. Which `Gender` is greatly come to branches?
+  3. What is the best-selling `product line` in the branches?
+  4. Which `Payment` Customers preferred?
+  5. Which `Customer type`comes to branches greater
+
+- Bivariate Questions
+  1. What is Relationship between `Gross income` and `Branches`?
+  2. What is Relationship between `Branches` and `Product line`?
+  3. What is Relationship between `Branches` and `Customer type`?
+  4. What is Total Monthly transaction by `Gender`?
+  5. What is `product line` generates most `income`?
+______________________________________________________________________________________
+## 4- Conclusion
+- Reached Results from  Univariate Analysis
+  1. Branche `A` has largest Sales numbers
+  2. Most Gender Come to branches is `female`
+  3. Most sales in branches is `Fashion accessories`
+  4. Customers prefered to `Ewallet`,`cash` payments rather than `credit card`
+  5. Most Customers come to branches has `member card`
+
+ - Reached Results from Bivariate Questions
+   1. Branch `C` stands out slightly with higher income compared to Branch `A` and `B`. Despite Branch `A` having slightly higher sales, it is Branch `C`  that emerges as the most profitable branch in terms of gross income, there was no relationship between customer `ratings` and `gross income`
+   2. `Fashion Accessories` and `Food and Beverages` were the most products. Therefore, must focus on these categories, with electronic accessories
+   3. When `members` in Branch increased,Total of `gross income` increased
+   4. When number of females increase, `Fashion accessories` Product line increase,  When number of male increase,`Health and beauty` Product line increase
+   5. Gross income is highest in `food and beverages`
+
+
+
