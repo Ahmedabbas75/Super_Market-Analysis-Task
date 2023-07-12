@@ -57,7 +57,7 @@ ________________________________________________________________________________
  - Reached Results from Bivariate Questions
    -  Branch `C` stands out slightly with higher income compared to Branch `A` and `B`. Despite Branch `A` having slightly higher sales, it is Branch `C`  that emerges as the most profitable branch in terms of gross income.
    -  No relationship between `rating` and gross income.
-   -  Branch `A`,`B` has males greater than females, but branch `C` has females greater than males.
+   -  Branch `A`, `B` has males greater than females, but branch `C` has females greater than males.
    -  `Female` gross income greater than Male in each branch.
    - Electronic accessories, Home and lifestyle is the most sales in branch `A`, Health and beauty, Sports and travel is the most sales in branch `B` and - Food and beverages, Fashion accessories is the most sales in branch `C`.
    - Branch `A` and `B`, `Normal` customer greater than `Member` but  Branch `C`, `Member` customer greater than `Normal`, `When customer number of members in Branch increased,Total of gross income increased`.
