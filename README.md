@@ -22,10 +22,10 @@ ____________________________________________________________________________
 _________________________________________________________________________________
 ## 3- In Mind Questions
 - General Questions related to the existence of
-  1. missing values?
-  2. wrong datatypes for columns?
-  3. complete duplicates in the data?
-  4. outliers in each column?
+  - missing values?
+  - wrong datatypes for columns?
+  - complete duplicates in the data?
+  - outliers in each column?
 
 - Univariate Analysis
   1. Which `branch` has largest Sales numbers?
@@ -43,11 +43,11 @@ ________________________________________________________________________________
 ______________________________________________________________________________________
 ## 4- Conclusion
 - Reached Results from  Univariate Analysis
-  1. Branche `A` has largest Sales numbers
-  2. Most Gender Come to branches is `female`
-  3. Most sales in branches is `Fashion accessories`
-  4. Customers prefered to `Ewallet`,`cash` payments rather than `credit card`
-  5. Most Customers come to branches has `member card`
+  - Branche `A` has largest Sales numbers
+  - Most Gender Come to branches is `female`
+  - Most sales in branches is `Fashion accessories`
+  - Customers prefered to `Ewallet`,`cash` payments rather than `credit card`
+  - Most Customers come to branches has `member card`
 
  - Reached Results from Bivariate Questions
    1. Branch `C` stands out slightly with higher income compared to Branch `A` and `B`. Despite Branch `A` having slightly higher sales, it is Branch `C`  that emerges as the most profitable branch in terms of gross income, there was no relationship between customer `ratings` and `gross income`
