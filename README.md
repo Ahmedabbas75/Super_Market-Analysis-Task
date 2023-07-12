@@ -32,24 +32,35 @@ ________________________________________________________________________________
   - Which `Gender` is greatly come to branches?
   - What is the best-selling `product line` in the branches?
   - Which `Payment` Customers preferred?
-  - Which `Customer type`comes to branches greater
+  - Which `Customer type`comes to branches greater?
 
 - Bivariate Questions
-  - What is Relationship between `Gross income` and `Branches`?
-  - What is Relationship between `Branches` and `Product line`?
-  - What is Relationship between `Branches` and `Customer type`?
-  - What is Total Monthly transaction by `Gender`?
-  - What is `product line` generates most `income`?
+  - Which `branch` has the highest gross income?
+  - There is relationship between `gross income` and customer `rating`?
+  - What is `gender` who come to branches more?
+  - What is male and female `gross income` in each branch?
+  - Which `product line` in branches have greater gross income?
+  - What is relationship between `customer type`, `branches` and `gross income`?
+  - Which `product line` preferred for every gender?
+  - Which `product line` have greater gross income?
+  - What is `Month` has greater gross income?
+  - What is greater sales  `product line` in each month?
 ______________________________________________________________________________________
 ## 4- Conclusion
 - Reached Results from  Univariate Analysis
-  - Branche `A` has largest Sales numbers
-  - Most Gender Come to branches is `female`
-  - Most sales in branches is `Fashion accessories`
-  - Customers prefered to `Ewallet`,`cash` payments rather than `credit card`
-  - Most Customers come to branches has `member card`
+  - Branche `A` has largest Sales numbers.
+  - Most Gender Come to branches is `female`.
+  - Most sales in branches is `Fashion accessories`.
+  - Customers prefered to `Ewallet`,`cash` payments rather than `credit card`.
+  - Most Customers come to branches has `member card`.
 
  - Reached Results from Bivariate Questions
+   -  Branch `C` stands out slightly with higher income compared to Branch `A` and `B`. Despite Branch `A` having slightly higher sales, it is Branch `C`  that emerges as the most profitable branch in terms of gross income.
+   -  No relationship between `rating` and gross income.
+   -  Branch `A`,`B` has males greater than females, but branch `C` has females greater than males.
+   -  `Female` gross income greater than Male in each branch.
+   - Electronic accessories, Home and lifestyle is the most sales in branch `A`, Health and beauty, Sports and travel is the most sales in branch `B` and - Food and beverages, Fashion accessories is the most sales in branch `C`.
+   - Branch `A` and `B`, `Normal` customer greater than `Member` but  Branch `C`, `Member` customer greater than `Normal`, `When  number of members in Branch increased,Total of gross income increased` 
 
 
 
