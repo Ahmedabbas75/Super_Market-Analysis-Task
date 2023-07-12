@@ -28,18 +28,18 @@ ________________________________________________________________________________
   - outliers in each column?
 
 - Univariate Analysis
-  1. Which `branch` has largest Sales numbers?
-  2. Which `Gender` is greatly come to branches?
-  3. What is the best-selling `product line` in the branches?
-  4. Which `Payment` Customers preferred?
-  5. Which `Customer type`comes to branches greater
+  - Which `branch` has largest Sales numbers?
+  - Which `Gender` is greatly come to branches?
+  - What is the best-selling `product line` in the branches?
+  - Which `Payment` Customers preferred?
+  - Which `Customer type`comes to branches greater
 
 - Bivariate Questions
-  1. What is Relationship between `Gross income` and `Branches`?
-  2. What is Relationship between `Branches` and `Product line`?
-  3. What is Relationship between `Branches` and `Customer type`?
-  4. What is Total Monthly transaction by `Gender`?
-  5. What is `product line` generates most `income`?
+  - What is Relationship between `Gross income` and `Branches`?
+  - What is Relationship between `Branches` and `Product line`?
+  - What is Relationship between `Branches` and `Customer type`?
+  - What is Total Monthly transaction by `Gender`?
+  - What is `product line` generates most `income`?
 ______________________________________________________________________________________
 ## 4- Conclusion
 - Reached Results from  Univariate Analysis
@@ -50,11 +50,6 @@ ________________________________________________________________________________
   - Most Customers come to branches has `member card`
 
  - Reached Results from Bivariate Questions
-   1. Branch `C` stands out slightly with higher income compared to Branch `A` and `B`. Despite Branch `A` having slightly higher sales, it is Branch `C`  that emerges as the most profitable branch in terms of gross income, there was no relationship between customer `ratings` and `gross income`
-   2. `Fashion Accessories` and `Food and Beverages` were the most products. Therefore, must focus on these categories, with electronic accessories
-   3. When `members` in Branch increased,Total of `gross income` increased
-   4. When number of females increase, `Fashion accessories` Product line increase,  When number of male increase,`Health and beauty` Product line increase
-   5. Gross income is highest in `food and beverages`
 
 
 
