@@ -79,7 +79,7 @@ ________________________________________________________________________________
 
 - #### Females  spend the most on `fashion accessories`, while males  preference for `health and beauty` products Females also spending on `sports and travel`, which contributed to the highest overall income
 
-- #### `In the end, there was no relationship between customer ratings were not significantly related to any variable`
+- #### In the end, there was no relationship between customer ratings were not significantly related to any variable
 
 
 
