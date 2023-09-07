@@ -1,11 +1,11 @@
 ## 1- Dashboard :
 </p>
   <p float="left">
-  <img src='DashBoard\screen one.png'/>
+  <img src='DashBoard\Page one.png'/>
   </p>
-  <img src='DashBoard\screen two.png'/>
+  <img src='DashBoard\Page two.png'/>
    </p>
-  <img src='DashBoard\screen two.png'/>
+  <img src='DashBoard\Page two.png'/>
 </p>
 
 
