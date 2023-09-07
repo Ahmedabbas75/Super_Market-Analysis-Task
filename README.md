@@ -5,7 +5,7 @@
   </p>
   <img src='DashBoard\Page two.png'/>
    </p>
-  <img src='DashBoard\Page two.png'/>
+  <img src='DashBoard\Page three.png'/>
 </p>
 
 
