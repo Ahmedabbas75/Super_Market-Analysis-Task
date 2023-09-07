@@ -7,9 +7,7 @@
    </p>
   <img src='DashBoard\Page three.png'/>
 </p>
-
-
-
+____________________________________________________________________________
 ## 2- About the Dataset :
 This dataset contains historical sales data from a supermarket company. The data includes records from three different branches over a three-month period.
 ____________________________________________________________________________
