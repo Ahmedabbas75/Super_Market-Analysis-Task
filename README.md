@@ -1,7 +1,19 @@
-## 1- About the Dataset :
+## 1- Dashboard :
+</p>
+  <p float="left">
+  <img src='DashBoard\screen one.png'/>
+  </p>
+  <img src='DashBoard\screen two.png'/>
+   </p>
+  <img src='DashBoard\screen two.png'/>
+</p>
+
+
+
+## 2- About the Dataset :
 This dataset contains historical sales data from a supermarket company. The data includes records from three different branches over a three-month period.
 ____________________________________________________________________________
-## 2- Data Description :
+## 3- Data Description :
 1. `Invoice ID`: Automatically generated identification number for sales slips.
 2. `Branch`: Supercenter branch (identified as A, B, or C).
 3. `City`: Location of the supercenters.
@@ -20,7 +32,7 @@ ____________________________________________________________________________
 16. `Gross Income`: Gross income.
 17. `Rating`: Customer satisfaction rating based on their overall shopping experience (rated on a scale of 1 to 10)
 _________________________________________________________________________________
-## 3- In Mind Questions
+## 4- In Mind Questions
 - General Questions related to the existence of
   - missing values?
   - wrong datatypes for columns?
@@ -46,7 +58,7 @@ ________________________________________________________________________________
   - What is `Month` has greater gross income?
   - What is greater sales `product line` in each month?
 ______________________________________________________________________________________
-## 4- Conclusion
+## 5- Conclusion
 - Reached Results from  Univariate Analysis
   - Branche `A` has largest Sales numbers.
   - Most Gender Come to branches is `female`.
@@ -66,7 +78,7 @@ ________________________________________________________________________________
    -  `january` month has greater gross income.
    -  `January` month Sports and travel, Fashion accessories is the most product line sales, `March` month Electronic accessories, Home and lifestyle is the most product line sales and `February` month Food and beverages, Fashion accessories is the most product line sales.
 ______________________________________________________________________________________
-## 5- 💡Summary
+## 6- 💡Summary
 - #### Customer average rating of approximately `7`. there was no relationship between customer ratings and gross income
 
 - #### Among the three branches, Branch `C` as the most profitable in terms of gross income, despite Branch `A` having slightly higher sales
